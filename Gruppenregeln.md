@@ -26,7 +26,7 @@ Dies ist kein Jobportal!
 
 #Verhalten untereinander
 
-Es sollte klar sein Beleidigungen und Beschimpfungen zu unterlassen sind.
+Es sollte klar sein, Beleidigungen und Beschimpfungen zu unterlassen sind.
 
 #Beiträge schreiben
 

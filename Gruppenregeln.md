@@ -33,4 +33,4 @@ Es sollte klar sein, Beleidigungen und Beschimpfungen zu unterlassen sind.
 Sollte man in der Gruppe eine Regel einführen, dass man sich beim Schreiben
 wenigstens ein bisschen an die Klein-Groß- und Rechtschreibung halten soll?-->JA
 
-Das heißt nicht, das Legasteniker oder Ausländer mit schlechten Deutschkenntnissen diskriminiert werden.
+Das heißt nicht, dass Legasteniker oder Ausländer mit schlechten Deutschkenntnissen diskriminiert werden.

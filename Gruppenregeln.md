@@ -23,6 +23,7 @@ hier nicht erwünscht und werden gelöscht.
 
 Anfragen für bezahlte oder unbezahlte Dienstleistungen sind nicht erwünscht.
 Dies ist kein Jobportal!
+Ebenso sind Angebote für Programmieraufgaben nicht erlaubt.
 
 #Verhalten untereinander
 
